@@ -27,39 +27,39 @@ readme.md file, click the edit icon and start answering the questions.
 #### 2 What is Github?
         github is a website that allows you to keep Repos on a remote location.
 #### 3 Describe the command that were used on Try Git tutorial.
-<br>
-<br>
-</table>
-<table>
-  <tr>
-    <td>git add .</td>
-    <td>adds information into the que</td>
-  </tr>
-  <tr>
-    <td>git status</td>
-    <td>checks to see if information has been added into the repo</td>
-  </tr>
-  <tr>
-    <td>git push</td>
-    <td>pushes the changes to a remote location</td>
-  </tr>
-  <tr>
-    <td>git remote</td>
-    <td>allows you to set a remote location</td>
-  </tr>
-  <tr>
-    <td>git commit</td>
-    <td>allows you to set a comment to a change that happens</td>
-  </tr>
-  <tr>
-    <td>git branch</td>
-    <td>lets you branch into a copy of a set of files so you don't mess the originals.</td>
-  </tr>
-  <tr>
-    <td>git merge</td>
-    <td>allows you to merge the changes from a branch into the originals</td>
-  </tr>
-</table>
+  <br>
+  <br>
+      </table>
+      <table>
+        <tr>
+          <td>git add .</td>
+          <td>adds information into the que</td>
+        </tr>
+        <tr>
+          <td>git status</td>
+          <td>checks to see if information has been added into the repo</td>
+        </tr>
+        <tr>
+          <td>git push</td>
+          <td>pushes the changes to a remote location</td>
+        </tr>
+        <tr>
+          <td>git remote</td>
+          <td>allows you to set a remote location</td>
+        </tr>
+        <tr>
+          <td>git commit</td>
+          <td>allows you to set a comment to a change that happens</td>
+        </tr>
+        <tr>
+          <td>git branch</td>
+          <td>lets you branch into a copy of a set of files so you don't mess the originals.</td>
+        </tr>
+        <tr>
+          <td>git merge</td>
+          <td>allows you to merge the changes from a branch into the originals</td>
+        </tr>
+      </table>
 
 #### 4 What are the main advantages?
         the advantages is that it allows you to compare different versions of the files, merge files, and allow multiple people to work on files without issue.

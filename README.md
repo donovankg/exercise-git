@@ -23,13 +23,13 @@ readme.md file, click the edit icon and start answering the questions.
 ###Answers
 
 #### 1 What is Git?
-
+        git is a means to archive the work so you are able to view the changes and a means to go back and review how it changed.
 #### 2 What is Github?
-
+        github is a website that allows you to keep Repos on a remote location.
 #### 3 Describe the command that were used on Try Git tutorial.
-
+      There was a few different commands used. git add . (this adds the files or updates the changes made in the files. git status (checks the status of the files in the repo). git commit (commits the changes and allows a message to go with it). git push (pushes the changes remotely). git pull (pulls the files from the remote location to the local repo). git config user.name “name” (sets the username to the git repo).
 #### 4 What are the main advantages?
-
+        the advantages is that it allows you to compare different versions of the files, merge files, and allow multiple people to work on files without issue.
 ##Exercise
 
   Work on the gitTutorial folder, in order to simulate everything that was done within the Try Git Tutorial.
